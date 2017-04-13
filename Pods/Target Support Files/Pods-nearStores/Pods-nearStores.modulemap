@@ -1,0 +1,6 @@
+framework module Pods_nearStores {
+  umbrella header "Pods-nearStores-umbrella.h"
+
+  export *
+  module * { export * }
+}
