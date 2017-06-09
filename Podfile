@@ -7,5 +7,6 @@ target 'nearStores' do
 
   # Pods for nearStores
   pod 'Alamofire', '~> 4.4'
+  pod 'SwiftyJSON'
 
 end
