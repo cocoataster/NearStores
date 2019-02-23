@@ -18,7 +18,7 @@ Variation of Tiendeo App that retrieves catalogues and coupons to show their res
 
 ## Preview
 
-![Preview](https://github.com/cocoataster/Images/blob/master/nearPreview1.gif)
+![Preview](https://github.com/cocoataster/Images/blob/master/nearPreview.gif)
 
 ## Requirements
 
