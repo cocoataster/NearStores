@@ -4,17 +4,21 @@
 
 Variation of Tiendeo App that retrieves catalogues and coupons to show their respectively stores on a map.
 
-## Preview
+## Snapshots
 
-![Preview](https://github.com/cocoataster/Images/blob/master/nearPreview1.gif)
-![Preview](https://github.com/cocoataster/Images/blob/master/nearPreview2.gif)
-![Preview](https://github.com/cocoataster/Images/blob/master/nearPreview3.gif)
+![Snapshot](https://github.com/cocoataster/Images/blob/master/nearSnap1.png)
+![Snapshot](https://github.com/cocoataster/Images/blob/master/nearSnap2.png)
+![Snapshot](https://github.com/cocoataster/Images/blob/master/nearSnap3.png)
 
 ## Some features you may like
 
 - [x] Check new catalogues
 - [x] Use discount coupons
 - [x] Use Apple Maps to get to the store
+
+## Preview
+
+![Preview](https://github.com/cocoataster/Images/blob/master/nearPreview1.gif)
 
 ## Requirements
 
