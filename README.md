@@ -10,7 +10,7 @@ Variation of Tiendeo App that retrieves catalogues and coupons to show their res
 ![Snapshot](https://github.com/cocoataster/Images/blob/master/nearSnap2.png)
 ![Snapshot](https://github.com/cocoataster/Images/blob/master/nearSnap3.png)
 
-## Some features you may like
+## Features
 
 - [x] Check new catalogues
 - [x] Use discount coupons
@@ -22,7 +22,7 @@ Variation of Tiendeo App that retrieves catalogues and coupons to show their res
 
 ## Requirements
 
-- iOS 10.0
+- iOS 10.3
 - Xcode 8
 
 ## Installation
